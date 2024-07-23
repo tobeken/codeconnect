@@ -4,7 +4,7 @@ import React from 'react'
 const Logo  = () => {
   return (
    <Link href="/">
-    <h1 className='text-white'>Travel.com</h1>
+    <h1 className='text-white text-xl'>Travel.com</h1>
    </Link>
   )
 }

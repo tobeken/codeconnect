@@ -68,7 +68,7 @@ const CardL = () => {
         <p className='text-xs'>{data.location}</p>
       </div>
       <div className='flex gap-2 mt-4 ml-2 items-center'>
-        <div className='bg-blue-800 text-white inline rounded-t rounded-br text-xs p-[2px]'>8.8</div>
+        <div className='bg-primary-30 text-white inline rounded-t rounded-br text-xs p-[2px]'>8.8</div>
         <p className='text-xs'>{data.reputation}</p>
         <p className='text-xs'>口コミ：{data.number}件</p>
       </div>

@@ -3,7 +3,7 @@ import React from 'react'
 const SearchButton = () => {
   return (
   <>
-  <button className='border-4 border-yellow-500 w-[300px] bg-blue-800'>検索</button>
+  <button className='border-4 border-accent w-[300px] bg-primary-30'>検索</button>
   </>
   )
 }

@@ -12,10 +12,10 @@ const Hero = () => {
         </figure>
         <div className='absolute inset-0 bg-black opacity-30'></div>
         <Container>
-            <h1 className='absolute top-20  text-white text-5xl'>特別な旅の <br /> 特別な拠点を</h1>
-            <p className='absolute top-48  text-white text-xl'>世界各地にある夢のような別荘を予約しよう</p>
+            <h1 className='absolute top-20  text-white text-5xl leading-normal'>特別な旅の <br /> 特別な拠点を</h1>
+            <p className='absolute top-60  text-white text-xl'>世界各地にある夢のような別荘を予約しよう</p>
 
-            <div className='absolute bottom-40 '>
+            <div className='absolute bottom-32 '>
             <PrimaryButton label='今すぐチェック'/>
             </div>
             <div className='absolute -bottom-6'>
