@@ -1,4 +1,5 @@
 
+import Content from "./components/Content";
 import Hero from "./components/Hero";
 
 
@@ -10,7 +11,7 @@ export default function Home() {
     <Hero />
   </main>
   <section>
-    <h1>Card</h1>
+    <Content />
   </section>
 
  </>

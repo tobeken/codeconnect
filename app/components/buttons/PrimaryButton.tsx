@@ -7,7 +7,7 @@ interface PrimaryButtonProps {
 const PrimaryButton = ({label}:PrimaryButtonProps) => {
   return (
     
-    <button className='bg-blue-800 pt-1 pb-1 pl-2 pr-2 rounded text-white'>{label}</button>
+    <button className='bg-blue-800 py-3 px-4 rounded text-white'>{label}</button>
     
   )
 }
